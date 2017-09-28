@@ -15,8 +15,6 @@
     <link rel="icon" href="images/favicon.ico">
   </head>
   <body>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-
   
     <!-- Nav menu stuff -->
     <?php include 'navbar.php' ?>
@@ -25,7 +23,7 @@
     
     <div class="container">
         <h1>Resume</h1>
-        <object data="documents/briggs_resume.pdf" type="application/pdf" width="100%" height="100%">
+        <object data="documents/briggs_resume.pdf" type="application/pdf" width="100%" height="1200">
         <p><b>Resume</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="documents/briggs_resume.pdf">Download PDF</a>.</p>
         </object>
     </div><!-- /.container -->

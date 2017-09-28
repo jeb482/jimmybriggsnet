@@ -15,7 +15,7 @@
     <link rel="icon" href="images/favicon.ico">
   </head>
   <body>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    
 
   
     <!-- Nav menu stuff -->
@@ -44,6 +44,7 @@
         
       </div>
 
+    <?php include 'footer.php' ?>
     </div><!-- /.container -->
 
     <!-- Optional JavaScript -->
