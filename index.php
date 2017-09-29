@@ -25,14 +25,14 @@
       <div class="starter-template">
         <h1>About me</h1>
         <p>I am a second year M.S. student at the Cornell
-        University Department of <a href="https://www.cs.cornell.edu/">Computer Science.</a> I am co-advised by 
-        <a href="http://www.cs.cornell.edu/~srm/">Steve Marschner</a> and 
-        <a href="https://www.cs.cornell.edu/~francois/">François Guimbretière</a>. My research interests
+        University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science.</a> I am co-advised by 
+        <a href="http://www.cs.cornell.edu/~srm/" target="_blank">Steve Marschner</a> and 
+        <a href="https://www.cs.cornell.edu/~francois/" target="_blank">François Guimbretière</a>. My research interests
         include real-time rendering, numerics, and human-computer interaction. I expect to complete my degree
         in May 2018.
         </p>
         <p>
-        I recieved my undergraduate degree in Computer Science, specializing in Computer Graphics, from Cornell
+        I recieved my bachelor's degree in Computer Science, specializing in Computer Graphics, from Cornell
         in 2016. Prior to Cornell, I studied Pure and Applied Mathematics for two years at Boston University.
         During my gap year between BU and Cornell, I worked full-time as a programmer. For full details 
         on my professional background, please see my <a href="resume.php">resume</a>.        
@@ -44,9 +44,10 @@
         
       </div>
 
-    <?php include 'footer.php' ?>
-    </div><!-- /.container -->
 
+    </div><!-- /.container -->
+    <?php include 'footer.php' ?>
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

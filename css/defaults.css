@@ -1,5 +1,18 @@
+body,html {
+    height: 100%;
+}
+
 body { 
     padding-top: 65px; 
+}
+
+.container {
+    min-height:100%;
+}
+
+.container.footer { 
+    min-height:0px;
+    margin-bottom:-160px;
 }
 
 /* unvisited link */
@@ -19,7 +32,7 @@ a:visited {
 a:hover {
 /*    color: ce84ff; */
     color: #d8b100;
-    transition: color .3s ease-in;
+    transition: color .2s ease-in;
     text-decoration: none;
 }
 
@@ -44,15 +57,8 @@ a:active {
     background-color: #ff5500;
 }
 /* change the brand and text color */
-.navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
     color: rgba(255,255,255,.8);
-    transition: all 0s;
-}
-
-.navbar-custom .navbar-brand{
-    color: #00baba;
-    transition: all 0s;
 }
 
 /* change the link color */
@@ -67,3 +73,16 @@ a:active {
     color: #ffffff;
     transition: all 0s;
 }
+
+.navbar-custom .navbar-brand{
+    color: #00baba;
+    transition: all 3s;
+}
+
+.navbar-custom .navbar-brand:hover {
+    color: #ffd000;
+    transition: color .5s ease-in;
+    text-decoration: none;
+}
+
+

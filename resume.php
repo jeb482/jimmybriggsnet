@@ -23,10 +23,13 @@
     
     <div class="container">
         <h1>Resume</h1>
-        <object data="documents/briggs_resume.pdf" type="application/pdf" width="100%" height="1200">
+        <div class='embed-responsive' style='padding-bottom:150%'>
+        <object data="documents/briggs_resume.pdf" type="application/pdf" width="100%" height="100%">
         <p><b>Resume</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="documents/briggs_resume.pdf">Download PDF</a>.</p>
         </object>
+        </div>
     </div><!-- /.container -->
+    <?php include 'footer.php' ?>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

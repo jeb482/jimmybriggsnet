@@ -21,13 +21,15 @@
     <div class="container">
       <div class="starter-template">
         <h1>Publications</h1>
-        <p>I have recently submitted a paper to a top HCI conference, and am awaiting evaluation.
-        </p>
+        
+        <h2>Refereed Journals</h2>
+        
+        <h2>Other Papers</h2>
         
       </div>
-
     </div><!-- /.container -->
-
+    <?php include 'footer.php' ?>
+    
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
