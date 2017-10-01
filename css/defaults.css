@@ -85,4 +85,26 @@ a:active {
     text-decoration: none;
 }
 
+.btn {
+    border: 0 none;
+}
+
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+    border: 0 none;
+}
+ 
+.btn-primary {
+    background: #00abab;
+    color: #ffffff;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #007f7f;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #007f70;
+    box-shadow: 10;
+}
 

@@ -16,21 +16,23 @@
   </head>
   <body>
   
+    <!-- Nav menu stuff -->
     <?php include 'navbar.php' ?>
+
     
     <div class="container">
-      <div class="starter-template">
-        <h1>Publications</h1>
-        <p>I have recently submitted a paper to a top HCI journal. To protect the double-blind review process, I
-        will wait until the paper is accepted before linking to it from this page. Expect an update this Fall (2017).
-        You can put a reminder to check back here on your calendar by clicking the button below.</p>
-        <center><p><a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXBuM2YybjNhMjAxbmVmYmQxdGloam1sMmQgMjc5ajU2ZmJrZ2ZyYnRqYW51aGtnMm9mZG9AZw&amp;tmsrc=279j56fbkgfrbtjanuhkg2ofdo%40group.calendar.google.com">
-        <button type="button" class="btn btn-primary">Set a reminder</button>
-        </a>
-        </p></center>
+      <div class="jumbotron">
+        <h1 class="display-3">He's dead, Jim.</h1>
+        <p class="lead">404: You seem to have navigated to a page that doesn't exist.</p>
+        <hr class="my-4">
+        <p><a href="index.php">Click here</a> to head back to the homepage.</p>
+      </div>  
       </div>
+    
+    
     </div><!-- /.container -->
     <?php include 'footer.php' ?>
+    
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
