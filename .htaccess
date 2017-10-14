@@ -84,4 +84,4 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule (.*) $1.php [L]
 RewriteEngine Off 
 
-ErrorDocument 404 /jimmybriggsnet/404.php
+ErrorDocument 404 /404.php

@@ -25,7 +25,7 @@
         <h1>Teaching</h1>
         <p>During both my graduate and undergraduate careers, I have served as a teaching assistant for
         a variety of courses serving freshmen through seniors. I am consistently reviewed positively by students, 
-        professors, and other teaching assistants, and have recieved multiple awards for excellence in teaching. 
+        professors, and other teaching assistants, and have received multiple awards for excellence in teaching. 
         Below, I provide a list of courses for which I have served as a TA.
         </p>
         
