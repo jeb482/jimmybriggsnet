@@ -15,6 +15,18 @@ body {
     margin-bottom:-160px;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
+.container-sitehead {
+    position: absolute;
+    top: 50%;
+    -moz-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
 /* unvisited link */
 a:link {
     color: #00baba;

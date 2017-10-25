@@ -22,8 +22,22 @@
     <?php include 'navbar.php' ?>
     
     <div class="container">
+       <div class="row">
+        <div class="col-md-4"><img src="images/headshot.jpg"   class="img-fluid img-circle"></center></div>
+        <div class="col-md-8 col-md-offset-4 align-self-center" align="center">
+
+        <h1>Jimmy Briggs</h1>
+        <p>Computer Graphics, Mixed Reality, HCI</p>
+        </center>
+
+        
+    
+    </div>
       <div class="starter-template">
-        <h1>About me</h1>
+        
+        
+     
+        
         <p>I am a second year M.S. student at the Cornell
         University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science.</a> I am co-advised by 
         <a href="http://www.cs.cornell.edu/~srm/" target="_blank">Steve Marschner</a> and 
