@@ -46,7 +46,7 @@
         in May 2018.
         </p>
         <p>
-        I recieved my bachelor's degree in Computer Science, specializing in Computer Graphics, from Cornell
+        I received my bachelor's degree in Computer Science, specializing in Computer Graphics, from Cornell
         in 2016. Prior to Cornell, I studied Pure and Applied Mathematics for two years at Boston University.
         During my gap year between BU and Cornell, I worked full-time as a programmer. For full details 
         on my professional background, please see my <a href="resume.php">resume</a>.        

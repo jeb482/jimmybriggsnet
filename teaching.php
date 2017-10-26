@@ -36,40 +36,43 @@
         <th>School</th>
         <th>Course</th>
         </tr>
-        </tr>
-        <td>Spring 2013</td>
-        <td>BU</td>
-        <td><a href="http://cs-people.bu.edu/dgs/courses/cs111-old/" target="_blank">CS 111</a>: Introduction to Programming I</td>
-        </tr>
-        </tr>
-        <td>Fall 2013</td>
-        <td>BU</td>
-        <td><a href="http://www.cs.bu.edu/~snyder/cs112/" target="_blank">CS 112</a>: Data Structures</td>
-        </tr>
-        </tr>
-        <td>Fall 2015</td>
+        <tr>
+
+
+
+        <td>Fall 2017</td>
         <td>Cornell</td>
-        <td><a href="http://www.cs.cornell.edu/courses/cs4620/2015fa/index.shtml" target="_blank">CS 4620</a>: Introduction to Computer Graphics</td>
-        </tr>
-        </tr>
-        <td>Spring 2016</td>
-        <td>Cornell</td>
-        <td><a href="http://www.cs.cornell.edu/courses/cs4820/2016sp/" target="_blank">CS 4820</a>: Introduction to Analysis of Algorithms</td>
-        </tr>
-        </tr>
-        <td>Fall 2016</td>
-        <td>Cornell</td>
-        <td><a href="http://www.cs.cornell.edu/courses/cs2800/2016fa/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
-        </tr>
+        <td><a href="http://www.cs.cornell.edu/courses/cs2800/2017fa/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
         </tr>
         <td>Spring 2017</td>
         <td>Cornell</td>
         <td><a href="http://www.cs.cornell.edu/courses/cs2800/2016sp/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
         </tr>
-        </tr>
-        <td>Fall 2017</td>
+        <tr>
+        <tr>
+        <td>Fall 2016</td>
         <td>Cornell</td>
-        <td><a href="http://www.cs.cornell.edu/courses/cs2800/2017fa/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
+        <td><a href="http://www.cs.cornell.edu/courses/cs2800/2016fa/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
+        </tr>
+        <tr>
+        <tr>
+        <td>Spring 2016</td>
+        <td>Cornell</td>
+        <td><a href="http://www.cs.cornell.edu/courses/cs4820/2016sp/" target="_blank">CS 4820</a>: Introduction to Analysis of Algorithms</td>
+        </tr>
+        <tr>
+        <td>Fall 2015</td>
+        <td>Cornell</td>
+        <td><a href="http://www.cs.cornell.edu/courses/cs4620/2015fa/index.shtml" target="_blank">CS 4620</a>: Introduction to Computer Graphics</td>
+        </tr>
+        <td>Fall 2013</td>
+        <td>BU</td>
+        <td><a href="http://www.cs.bu.edu/~snyder/cs112/" target="_blank">CS 112</a>: Data Structures</td>
+        </tr>
+        <tr>
+        <td>Spring 2013</td>
+        <td>BU</td>
+        <td><a href="http://cs-people.bu.edu/dgs/courses/cs111-old/" target="_blank">CS 111</a>: Introduction to Programming I</td>
         </tr>
 
         </table>
