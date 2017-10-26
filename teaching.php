@@ -49,12 +49,10 @@
         <td><a href="http://www.cs.cornell.edu/courses/cs2800/2016sp/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
         </tr>
         <tr>
-        <tr>
         <td>Fall 2016</td>
         <td>Cornell</td>
         <td><a href="http://www.cs.cornell.edu/courses/cs2800/2016fa/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
         </tr>
-        <tr>
         <tr>
         <td>Spring 2016</td>
         <td>Cornell</td>
