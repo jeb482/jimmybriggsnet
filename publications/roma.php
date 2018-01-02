@@ -27,7 +27,8 @@
         <div class="col-md-8 col-md-offset-4 align-self-center" align="center">
 
         <h1>RoMA: Interactive Fabrication with a Robotic Arm 3D Printer </h1>
-        <p>Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière. <span class="text-muted"><a href="https://chi2018.acm.org/">CHI 2018</a> to appear.</span></p>
+        <p>Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière. 
+        <span class="text-muted"><a href="https://chi2018.acm.org/" target="_blank">CHI 2018</a> to appear.</span></p>
         <p>
         <span class="badge badge-pill badge-c-sharp">C#</span>
         <span class="badge badge-pill badge-cpp">C++</span>
