@@ -23,7 +23,7 @@
     
     <div class="container">
        <div class="row jumbotron">
-        <div class="col-md-4"><img src="images/headshot.jpg"   class="img-fluid img-circle"></center></div>
+        <div class="col-md-4"><img src="images/headshot_warm.jpg"   class="img-fluid img-circle"></center></div>
         <div class="col-md-8 col-md-offset-4 align-self-center" align="center">
 
         <h1>Jimmy Briggs</h1>

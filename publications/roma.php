@@ -9,45 +9,38 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
 
     <!-- Jimmys CSS -->
-    <link rel="stylesheet" href="css/defaults.css">
+    <link rel="stylesheet" href="../css/defaults.css">
 
     <title>Jimmy Briggs</title>
-    <link rel="icon" href="images/favicon.ico">
+    <link rel="icon" href="../images/favicon.ico">
   </head>
   <body>
+    
+
   
     <!-- Nav menu stuff -->
-    <?php include 'navbar.php' ?>
-
+    <?php include '../navbar.php' ?>
     
     <div class="container">
-      <div class="starter-template">
-        <h1>Projects</h1>
-        <p>I always have at least one side-project to keep me busy on the weekends. Over the 
-        past few years, I have knitted 20,000 links into a chainmail hauberk. I estimate 
-        that the piece require another 8,000 links before it is finished. Other projects
-        have included an AI that writes poetry in the style of Tennyson, a from-scratch
-        augmented reality renderer, and some scattered Warcraft III mods. In the next few months,
-        I will update this page with some of my personal projects, past and present.
-        </p>
+       <div class="row jumbotron">
+        <div class="col-md-4"><img src="../images/roma_teaser.jpg"   class="img-fluid"></center></div>
+        <div class="col-md-8 col-md-offset-4 align-self-center" align="center">
+
+        <h1>RoMA: Interactive Fabrication with a Robotic Arm 3D Printer</h1>
+        <p>Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière</p>
+        <p></p>
+        </center>
+        </div>
         
-      <!--<div class="container">
-      <img src="images/maile.jpg" class ="teaser" alt="Avatar" class="image">
-      <div class="middle">
-      <div class="text-image">Chainmail</div>
-      </div>
-      </div>
-      </div> -->
-      <div class="text-center">
-        <img src="images/maile.jpg" class="img-circle" alt="a picture of my chainmail shirt" height="200" width="200">
-        <img src="images/wakame_teaser.jpg" class="img-circle" alt="photon mapped cornell box scene" height="200" width="200">
-        <img src="images/kb.jpg" class="img-circle" alt="hybrid image of Kavita Bala with the Statue of Liberty" height="200" width="200">
-        <img src="images/panorama.jpg" class="img-circle" alt="Auto-panorama" height="200" width="200">
-      </div>
     
+    </div>
+      <div class="starter-template">
+        
+      </div>
+
+
     </div><!-- /.container -->
     <?php include 'footer.php' ?>
-    
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

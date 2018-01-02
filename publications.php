@@ -19,16 +19,23 @@
     <?php include 'navbar.php' ?>
     
     <div class="container">
-      <div class="starter-template">
-        <h1>Publications</h1>
-        <p>I have recently submitted a paper to a top HCI journal. To protect the double-blind review process, I
-        will wait until the paper is accepted before linking to it from this page. Expect an update this Fall (2017).
-        You can put a reminder to check back here on your calendar by clicking the button below.</p>
-        <center><p><a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NXBuM2YybjNhMjAxbmVmYmQxdGloam1sMmQgMjc5ajU2ZmJrZ2ZyYnRqYW51aGtnMm9mZG9AZw&amp;tmsrc=279j56fbkgfrbtjanuhkg2ofdo%40group.calendar.google.com">
-        <button type="button" class="btn btn-primary">Set a reminder</button>
-        </a>
-        </p></center>
+    <h1>Publications</h1>
+
+    <hr class="featurette-divider">
+    <div class="row featurette">
+        <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" src="images/roma_teaser.jpg" alt="Image of ROMA: Interactive Robotic Assistant"> 
+        </div>
+        <div class="col-md-7">
+         <h2 class="featurette-heading">RoMA: Interactive Fabrication with a Robotic Arm 3D Printer</h2>
+          <p class="lead">Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière. </p>
+         <p><center><a target="_blank" href="publications/roma.php">
+<button type="button" class="btn btn-primary">Check it out</button></a></center></p>
+        </div>
       </div>
+
+      <hr class="featurette-divider">
+
     </div><!-- /.container -->
     <?php include 'footer.php' ?>
     
