@@ -21,7 +21,6 @@
 
     
     <div class="container">
-      <div class="starter-template">
         <h1>Projects</h1>
         <p>I always have at least one side-project to keep me busy on the weekends. Over the 
         past few years, I have knitted 20,000 links into a chainmail hauberk. I estimate 

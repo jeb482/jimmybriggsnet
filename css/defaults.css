@@ -159,3 +159,15 @@ a:active {
     box-shadow: 10;
 }
 
+.badge-c-sharp{
+    background: #5C2E91;  
+}
+.badge-cpp{
+    background: #659BD3; 
+}
+.badge-opengl{
+    background: #5586A4;
+}
+.badge-openvr{
+    background: #0A3663;
+}

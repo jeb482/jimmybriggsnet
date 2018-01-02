@@ -3,7 +3,7 @@
 <hr>
 <footer class="footer">
 <center>
-<p>&copy; Jimmy Briggs 2017</p>
+<p>&copy; Jimmy Briggs 2018</p>
 </center>
 </footer>
 </div>
