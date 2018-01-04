@@ -48,7 +48,7 @@
       between the designer and the 3D printing robotic arm allows the designer to quickly interrupt
       printing to access a printed area or to indicate that the robot can take full control of the
       model to finish printing. RoMA lets users integrate real-world constraints into a design rapidly,
-      allowing them to create well-proportioned cookingimplements or to extend existing objects.
+      allowing them to create well-proportioned cooking implements or to extend existing objects.
       We conclude by presenting the strengths and limitations of our current design.
       </p>
       

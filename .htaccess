@@ -78,11 +78,5 @@ RewriteCond %{HTTP_USER_AGENT} ^Zeus
 RewriteRule ^.* - [F,L]
 RewriteEngine Off
 
-RewriteEngine On 
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule (.*) $1.php [L]
-RewriteEngine Off 
-
 
 ErrorDocument 404 /404.php

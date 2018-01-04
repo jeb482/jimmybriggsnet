@@ -28,6 +28,10 @@
 
         <h1>Jimmy Briggs</h1>
         <p>Computer Graphics, Mixed Reality, HCI</p>
+        <p><span class="d-md-none">
+        <a class="fa fa-linkedin nav-link" target="_blank" href="https://www.linkedin.com/in/jimmy-briggs/"></a>
+        <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
+        </span></p>
         </center>
         </div>
         
