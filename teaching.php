@@ -36,10 +36,13 @@
         <th>School</th>
         <th>Course</th>
         </tr>
+        
+         <tr>
+        <td>Spring 2018</td>
+        <td>Cornell</td>
+        <td><a href="http://www.cs.cornell.edu/courses/cs4670/2018sp/" target="_blank">CS 4670/5670</a>: Introduction to Computer Vision</td>
+        </tr>
         <tr>
-
-
-
         <td>Fall 2017</td>
         <td>Cornell</td>
         <td><a href="http://www.cs.cornell.edu/courses/cs2800/2017fa/" target="_blank">CS 2800</a>: Discrete Math (Head TA)</td>
@@ -61,7 +64,7 @@
         <tr>
         <td>Fall 2015</td>
         <td>Cornell</td>
-        <td><a href="http://www.cs.cornell.edu/courses/cs4620/2015fa/index.shtml" target="_blank">CS 4620</a>: Introduction to Computer Graphics</td>
+        <td><a href="http://www.cs.cornell.edu/courses/cs4620/2015fa/index.shtml" target="_blank">CS 4620/5620</a>: Introduction to Computer Graphics</td>
         </tr>
         <td>Fall 2013</td>
         <td>BU</td>
