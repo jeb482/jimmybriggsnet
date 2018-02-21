@@ -22,12 +22,7 @@
     
     <div class="container">
         <h1>Projects</h1>
-        <p>I always have at least one side-project to keep me busy on the weekends. Over the 
-        past few years, I have knitted 20,000 links into a chainmail hauberk. I estimate 
-        that the piece require another 8,000 links before it is finished. Other projects
-        have included an AI that writes poetry in the style of Tennyson, a from-scratch
-        augmented reality renderer, and some scattered Warcraft III mods. In the next few months,
-        I will update this page with some of my personal projects, past and present.
+        <p>This page is still under construction. Here are some pictures you can look forward to.
         </p>
         
       <!--<div class="container">

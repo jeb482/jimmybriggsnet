@@ -40,8 +40,6 @@
       <div class="starter-template">
         
         
-     
-        
         <p>I am a second year M.S. student at the Cornell
         University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science.</a> I am co-advised by 
         <a href="http://www.cs.cornell.edu/~srm/" target="_blank">Steve Marschner</a> and 
@@ -55,12 +53,30 @@
         During my gap year between BU and Cornell, I worked full-time as a programmer. For full details 
         on my professional background, please see my <a href="resume.php">resume</a>.        
         </p>
-        <p>
-        In my free time, I play competitive video games and several varieties of flute. I also draw, write,
-        and participate in local activism.
-        </p>
+
         
-      </div>
+    <div class="card">
+    <table class="table table-sm table-striped table-responsive-sm">
+    <th span="col" colspan="2"><center>News</center></th>
+    <tr>
+    <td>February 2018</th>
+    <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/">
+        Techcrunch</a>, <a href="http://news.cornell.edu/stories/2018/02/augmented-reality-takes-3-d-printing-next-level">Cornell Chronicle</a>.</td></tr>
+    <tr>
+    <td>December 2017</th>
+    <td>RoMA: Robotic Modeling Assistant paper accepted to <a href="https://chi2018.acm.org/">CHI</a>.</td></tr>
+    <tr>
+    <td>August 2017</th>
+    <td>Completed R&D internship at <a href="http://blueskystudios.com/">Blue Sky Studios</a>. Film credit in <a href="http://www.imdb.com/title/tt3411444/">Ferdinand</a>.</td></tr>
+    <tr>
+    <td>May 2017</th>
+    <td>Excellence in Teaching Award for Discrete Mathematics.</td>
+    </tr>
+    </table>
+    </div>
+    </div>
+        
+    </div>
 
 
     </div><!-- /.container -->
