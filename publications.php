@@ -27,7 +27,7 @@
             <img class="featurette-image img-fluid mx-auto" src="images/roma_teaser.jpg" alt="Image of ROMA: Interactive Robotic Assistant"> 
         </div>
         <div class="col-md-7">
-         <h2 class="featurette-heading">RoMA: Interactive Fabrication with a Robotic Arm 3D Printer</h2>
+         <h2 class="featurette-heading">RoMA: Interactive Fabrication with Augmented Reality and a Robotic 3D Printer</h2>
           <p class="lead">Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière. <span class="text-muted">
           <a href="https://chi2018.acm.org/" target="_blank">CHI 2018</a> to appear.</span> </p>
          <p><center><a href="publications/roma.php"><button type="button" class="btn btn-primary">Check it out</button></a></center></p>
