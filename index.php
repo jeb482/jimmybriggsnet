@@ -61,7 +61,9 @@
     <tr>
     <td>February 2018</th>
     <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/">
-        Techcrunch</a>, <a href="http://news.cornell.edu/stories/2018/02/augmented-reality-takes-3-d-printing-next-level">Cornell Chronicle</a>.</td></tr>
+        Techcrunch</a>,
+        <a href="https://www.fastcodesign.com/90161386/this-designer-and-robot-working-in-perfect-unison-is-the-future-of-making">FastCo.Design</a>, 
+        <a href="http://news.cornell.edu/stories/2018/02/augmented-reality-takes-3-d-printing-next-level">Cornell Chronicle</a>.</td></tr>
     <tr>
     <td>December 2017</th>
     <td>RoMA: Robotic Modeling Assistant paper accepted to <a href="https://chi2018.acm.org/">CHI</a>.</td></tr>
