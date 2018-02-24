@@ -60,16 +60,16 @@
     <th span="col" colspan="2"><center>News</center></th>
     <tr>
     <td>February 2018</th>
-    <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/">
+    <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/" target="_blank">
         Techcrunch</a>,
-        <a href="https://www.fastcodesign.com/90161386/this-designer-and-robot-working-in-perfect-unison-is-the-future-of-making">FastCo.Design</a>, 
-        <a href="http://news.cornell.edu/stories/2018/02/augmented-reality-takes-3-d-printing-next-level">Cornell Chronicle</a>.</td></tr>
+        <a href="https://www.fastcodesign.com/90161386/this-designer-and-robot-working-in-perfect-unison-is-the-future-of-making" target="_blank">FastCo.Design</a>, 
+        <a href="http://news.cornell.edu/stories/2018/02/augmented-reality-takes-3-d-printing-next-level target="_blank"">Cornell Chronicle</a>.</td></tr>
     <tr>
     <td>December 2017</th>
-    <td>RoMA: Robotic Modeling Assistant paper accepted to <a href="https://chi2018.acm.org/">CHI</a>.</td></tr>
+    <td>RoMA: Robotic Modeling Assistant paper accepted to <a href="https://chi2018.acm.org/" target="_blank">CHI</a>.</td></tr>
     <tr>
     <td>August 2017</th>
-    <td>Completed R&D internship at <a href="http://blueskystudios.com/">Blue Sky Studios</a>. Film credit in <a href="http://www.imdb.com/title/tt3411444/">Ferdinand</a>.</td></tr>
+    <td>Completed R&D internship at <a href="http://blueskystudios.com/" target="_blank">Blue Sky Studios</a>. Film credit in <a href="http://www.imdb.com/title/tt3411444/" target="_blank">Ferdinand</a>.</td></tr>
     <tr>
     <td>May 2017</th>
     <td>Excellence in Teaching Award for Discrete Mathematics.</td>
