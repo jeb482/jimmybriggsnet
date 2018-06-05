@@ -62,7 +62,6 @@
     <td>April 2018</th>
     <td>Come see me <a href="https://chi2018.acm.org/technical-program/?sessionId=-L6UzzYNG4FBOIBsZ2J4&publicationId=-L6UyDWxWiLiWxFQ6eIX">present at CHI</a> Thursday, 26 April at 11:30.</td></tr>
     <tr>
-    <tr>
     <td>February 2018</th>
     <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/" target="_blank">
         Techcrunch</a>,
