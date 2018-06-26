@@ -30,6 +30,7 @@
         <p>Computer Graphics, Mixed Reality, HCI</p>
         <p><span class="d-md-none">
         <a class="fa fa-linkedin nav-link" target="_blank" href="https://www.linkedin.com/in/jimmy-briggs/"></a>
+        <a class="fa fa-github nav-link" target="_blank" href="https://www.github.com/jeb482"></a>
         <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
         </span></p>
         </center>
@@ -54,13 +55,20 @@
         on my professional background, please see my <a href="resume.php">resume</a>.        
         </p>
 
-        
-    <div class="card">
-    <table class="table table-sm table-striped table-responsive-sm">
-    <th span="col" colspan="2"><center>News</center></th>
+       
+    <div class="card"> 
+    
+    <div class="card-header news-header">
+    <center>News</center>
+    </div>
+
+    
+    <div  class="card-body news">
+    <table class="table table-sm table-striped table-responsive-sm news">
     <tr>
     <td>April 2018</th>
-    <td>Come see me <a href="https://chi2018.acm.org/technical-program/?sessionId=-L6UzzYNG4FBOIBsZ2J4&publicationId=-L6UyDWxWiLiWxFQ6eIX">present at CHI</a> Thursday, 26 April at 11:30.</td></tr>
+    <td>Come see me <a href="https://chi2018.acm.org/technical-program/?sessionId=-L6UzzYNG4FBOIBsZ2J4&publicationId=-L6UyDWxWiLiWxFQ6eIX" target="_blank">present at CHI</a> Thursday, 26 April at 11:30.</td></tr>
+    
     <tr>
     <td>February 2018</th>
     <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/" target="_blank">
@@ -77,8 +85,10 @@
     <td>May 2017</th>
     <td>Excellence in Teaching Award for Discrete Mathematics.</td>
     </tr>
+
     </table>
     </div>
+
     </div>
         
     </div>

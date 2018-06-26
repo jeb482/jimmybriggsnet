@@ -26,6 +26,9 @@
       <li  class="nav-item">
       <a class="fa fa-linkedin nav-link" target="_blank" href="https://www.linkedin.com/in/jimmy-briggs/"></a>
       </li>
+      <li  class="nav-item">
+      <a class="fa fa-github nav-link" target="_blank" href="https://www.github.com/jeb482"></a>
+      </li>
       <li class="nav navbar-nav pull-right">  
       <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
       </li>
