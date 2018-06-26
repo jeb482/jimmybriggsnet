@@ -37,7 +37,12 @@
         <th>Course</th>
         </tr>
         
-         <tr>
+        <tr>
+        <td>Summer 2018</td>
+        <td>Cornell</td>
+        <td><a href="https://www.sce.cornell.edu/ss/courses/courses.php?v=2950" target="_blank">CS 1109</a>: Fundamental Programming Concepts</td>
+        </tr>
+        <tr>
         <td>Spring 2018</td>
         <td>Cornell</td>
         <td><a href="http://www.cs.cornell.edu/courses/cs4670/2018sp/" target="_blank">CS 4670/5670</a>: Introduction to Computer Vision</td>
