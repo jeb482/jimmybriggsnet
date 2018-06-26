@@ -41,12 +41,11 @@
       <div class="starter-template">
         
         
-        <p>I am a second year M.S. student at the Cornell
+        <p>I am an M.S. student at the Cornell
         University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science.</a> I am co-advised by 
         <a href="http://www.cs.cornell.edu/~srm/" target="_blank">Steve Marschner</a> and 
         <a href="https://www.cs.cornell.edu/~francois/" target="_blank">François Guimbretière</a>. My research interests
-        include real-time rendering, numerics, and human-computer interaction. I expect to complete my degree
-        in May 2018.
+        include graphics, vision, virtual/augmented reality, and HCI. I will graduate August 2018.
         </p>
         <p>
         I received my bachelor's degree in Computer Science, specializing in Computer Graphics, from Cornell
