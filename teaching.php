@@ -79,7 +79,32 @@
         </table>
       </div>
 
-
+        <div class="starter-template">
+      <h2>Awards</h2>
+      
+      <table class="table table-striped">
+        <tr>
+        <th>Date</th>
+        <th>Award</th>
+        <th>Course</th>
+        </tr>
+        <tr>
+        <td>May 2016</td>
+        <td>Cornell Computer Science Excellence in Teaching Award</td>
+        <td>Introduction to Computer Graphics</td>
+        </tr>
+        <tr>
+        <td>May 2017</td>
+        <td>Cornell Computer Science Excellence in Teaching Award</td>
+        <td>Discrete Mathematics</td>
+        </tr>        
+        <tr>
+        <td>May 2018</td>
+        <td>Cornell Computer Science Excellence in Teaching Award</td>
+        <td>Discrete Mathematics</td>
+        </tr> 
+      </table>        
+      </div>
     </div><!-- /.container -->
     <?php include 'footer.php' ?>
         

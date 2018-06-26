@@ -65,9 +65,14 @@
     <div  class="card-body news">
     <table class="table table-sm table-striped table-responsive-sm news">
     <tr>
+    <td>June 2018</th>
+    <td>Thesis defense 27 June 2018.</tr>
+    <tr>
+    <td>May 2018</th>
+    <td>A second Excellence in Teaching Award for Discrete Mathematics.</tr>
+    <tr>
     <td>April 2018</th>
-    <td>Come see me <a href="https://chi2018.acm.org/technical-program/?sessionId=-L6UzzYNG4FBOIBsZ2J4&publicationId=-L6UyDWxWiLiWxFQ6eIX" target="_blank">present at CHI</a> Thursday, 26 April at 11:30.</td></tr>
-    
+    <td>Come see me <a href="https://chi2018.acm.org/technical-program/?sessionId=-L6UzzYNG4FBOIBsZ2J4&publicationId=-L6UyDWxWiLiWxFQ6eIX" target="_blank">present at CHI</a> Thursday, 26 April at 11:30.</td></tr>    
     <tr>
     <td>February 2018</th>
     <td>RoMA featured in <a href="https://techcrunch.com/2018/02/19/combining-augmented-reality-3d-printing-and-a-robotic-arm-to-prototype-in-real-time/" target="_blank">
