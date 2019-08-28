@@ -1,6 +1,7 @@
 <?php $GLOBALS['root'] = "http://127.0.0.1/jimmybriggsnet"; ?>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 <nav class="navbar-custom navbar navbar-expand-md navbar-dark bg-dark fixed-top">
     <a class="navbar-brand" href="<?php echo $GLOBALS['root']  . "/index.php" ?>">Jimmy Briggs</a>
  
@@ -15,9 +16,9 @@
         <li class="nav-item">
           <a class="nav-link" href="<?php echo $GLOBALS['root']  . "/teaching.php"?>">Teaching</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="<?php echo $GLOBALS['root']  . "/projects.php"?>">Projects</a>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" href="<?php  echo $GLOBALS['root']  . "/resume.php"?>">Resume</a>
         </li>
@@ -31,6 +32,10 @@
       </li>
       <li class="nav navbar-nav pull-right">  
       <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
+      </li>
+      <li  class="nav-item">
+      <a class="fa ai ai-google-scholar  nav-link" target="_blank" href="https://scholar.google.com/citations?user=xFxnvikAAAAJ&hl=en&oi=ao"></a>
+      </li>
       </li>
       </ul>
 

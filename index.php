@@ -27,12 +27,13 @@
         <div class="col-md-8 col-md-offset-4 align-self-center" align="center">
 
         <h1>Jimmy Briggs</h1>
-        <p>Computer Graphics, Mixed Reality, HCI</p>
-        <p><span class="d-md-none">
+        <p>Graphics | Vision | Applied Math</p>
+        <span class="d-md-none"><p>
         <a class="fa fa-linkedin nav-link" target="_blank" href="https://www.linkedin.com/in/jimmy-briggs/"></a>
         <a class="fa fa-github nav-link" target="_blank" href="https://www.github.com/jeb482"></a>
         <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
-        </span></p>
+        </p>
+        </span>
         </center>
         </div>
         
@@ -40,19 +41,11 @@
     </div>
       <div class="starter-template">
         
-        
-        <p>I am an M.S. student at the Cornell
-        University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science.</a> I am co-advised by 
+        <p>I am a software engineer at <a href="https://www.irobot.com"  target="_blank">iRobot</a> with expertise in Graphics, Vision, and Numerics. My current research interests are Simultaneous Localization and Mapping (SLAM) and Machine Learning. Prior to joining iRobot, I was a Master's student at the Cornell University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science</a>, where I was co-advised by 
         <a href="http://www.cs.cornell.edu/~srm/" target="_blank">Steve Marschner</a> and 
-        <a href="https://www.cs.cornell.edu/~francois/" target="_blank">François Guimbretière</a>. My research interests
-        include graphics, vision, virtual/augmented reality, and HCI. I will graduate August 2018.
+        <a href="https://www.cs.cornell.edu/~francois/" target="_blank">François Guimbretière</a>.
         </p>
-        <p>
-        I received my bachelor's degree in Computer Science, specializing in Computer Graphics, from Cornell
-        in 2016. Prior to Cornell, I studied Pure and Applied Mathematics for two years at Boston University.
-        During my gap year between BU and Cornell, I worked full-time as a programmer. For full details 
-        on my professional background, please see my <a href="resume.php">resume</a>.        
-        </p>
+        
 
        
     <div class="card"> 
@@ -65,11 +58,22 @@
     <div  class="card-body news">
     <table class="table table-sm table-striped table-responsive-sm news">
     <tr>
+    <td>July 2019</th>
+    <td>SLAM view management paper accepted to <a href="https://www.iros2019.org" target="_blank">IROS 2019</a>.</tr>
+    <tr>
+    <tr>
+    <td>June 2019</th>
+    <td>Occupancy grid management poster accepted to <a href="https://www.ecmr2019.eu" target="_blank">ECMR 2019</a>.</tr>
+    <tr>
+    <tr>
+    <td>September 2018</th>
+    <td>Started work at <a href="https://www.irobot.com/" target="_blank">iRobot</a>.</tr>
+    <tr>
     <td>June 2018</th>
     <td>Thesis defense 27 June 2018.</tr>
     <tr>
     <td>May 2018</th>
-    <td>A second Excellence in Teaching Award for Discrete Mathematics.</tr>
+    <td>Excellence in Teaching Award for Discrete Mathematics.</tr>
     <tr>
     <td>April 2018</th>
     <td>Come see me <a href="https://chi2018.acm.org/technical-program/?sessionId=-L6UzzYNG4FBOIBsZ2J4&publicationId=-L6UyDWxWiLiWxFQ6eIX" target="_blank">present at CHI</a> Thursday, 26 April at 11:30.</td></tr>    

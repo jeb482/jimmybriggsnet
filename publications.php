@@ -24,13 +24,39 @@
     <hr class="featurette-divider">
     <div class="row featurette">
         <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" src="images/view_manage_teaser.png" alt="Image of a map with many small red circles on it."> 
+        </div>
+        <div class="col-md-7">
+         <h2 class="featurette-heading">View Management for Lifelong Visual Maps</h2>
+          <p class="lead">Nandan Banerjee, Ryan C. Connolly, Dimitri Lisin, <strong>Jimmy Briggs</strong>, Manjunath Narayana, and Mario E. Munich. <span class="text-muted">
+          <a href="https://www.iros2019.org" target="_blank">IROS 2019</a> to appear.</span> </p>
+         <p><center><button type="button" class="btn btn-secondary" disabled aria-disabled="true">Coming Soon!</button></center></p>
+        </div>
+      </div>
+    
+    <hr class="featurette-divider">
+    <div class="row featurette">
+        <div class="col-md-5">
+            <img class="featurette-image img-fluid mx-auto" src="images/grids_teaser.png" alt="Image of a map with many small red circles on it."> 
+        </div>
+        <div class="col-md-7">
+         <h2 class="featurette-heading">Lifelong Mapping Using Adaptive Local Maps</h2>
+          <p class="lead">Nandan Banerjee, Dimitri Lisin, <strong>Jimmy Briggs</strong>, Martin Llofriu, and Mario E. Munich. <span class="text-muted">
+          <a href="https://www.ecmr2019.eu" target="_blank">ECMR 2019</a> to appear.</span> </p>
+         <p><center><button type="button" class="btn btn-secondary" disabled aria-disabled="true">Coming Soon!</button></center></p>
+        </div>
+      </div>
+    
+    <hr class="featurette-divider">
+    <div class="row featurette">
+        <div class="col-md-5">
             <img class="featurette-image img-fluid mx-auto" src="images/roma_teaser.jpg" alt="Image of ROMA: Interactive Robotic Assistant"> 
         </div>
         <div class="col-md-7">
          <h2 class="featurette-heading">RoMA: Interactive Fabrication with Augmented Reality and a Robotic 3D Printer</h2>
-          <p class="lead">Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière. <span class="text-muted">
-          <a href="https://chi2018.acm.org/" target="_blank">CHI 2018</a> to appear.</span> </p>
-         <p><center><a href="publications/roma.php"><button type="button" class="btn btn-primary">Check it out</button></a></center></p>
+          <p class="lead">Huaishu Peng, <strong>Jimmy Briggs</strong>, Cheng-Yao Wang, Kevin Guo, Joseph Kider, Stefanie Mueller, Patrick Baudisch, François Guimbretière.
+          <a href="https://chi2018.acm.org/" target="_blank">CHI 2018</a>. </p>
+         <p><center><a href="publications/roma.php"><button type="button" class="btn btn-primary">Check it out!</button></a></center></p>
         </div>
       </div>
 
