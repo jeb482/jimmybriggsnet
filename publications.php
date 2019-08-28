@@ -37,7 +37,7 @@
     <hr class="featurette-divider">
     <div class="row featurette">
         <div class="col-md-5">
-            <img class="featurette-image img-fluid mx-auto" src="images/grids_teaser.png" alt="Image of a map with many small red circles on it."> 
+            <img class="featurette-image img-fluid mx-auto" src="images/grids_teaser.png" alt="Two maps with different overlays of colorful rectangles."> 
         </div>
         <div class="col-md-7">
          <h2 class="featurette-heading">Lifelong Mapping Using Adaptive Local Maps</h2>
