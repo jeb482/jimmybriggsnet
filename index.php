@@ -31,6 +31,7 @@
         <span class="d-md-none"><p>
         <a class="fa fa-linkedin nav-link" target="_blank" href="https://www.linkedin.com/in/jimmy-briggs/"></a>
         <a class="fa fa-github nav-link" target="_blank" href="https://www.github.com/jeb482"></a>
+        <a class="fa ai ai-google-scholar nav-link" target="_blank" href="https://scholar.google.com/citations?user=xFxnvikAAAAJ&hl=en&oi=ao"></a>
         <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
         </p>
         </span>
@@ -61,10 +62,8 @@
     <td>July 2019</th>
     <td>SLAM view management paper accepted to <a href="https://www.iros2019.org" target="_blank">IROS 2019</a>.</tr>
     <tr>
-    <tr>
     <td>June 2019</th>
     <td>Occupancy grid management poster accepted to <a href="https://www.ecmr2019.eu" target="_blank">ECMR 2019</a>.</tr>
-    <tr>
     <tr>
     <td>September 2018</th>
     <td>Started work at <a href="https://www.irobot.com/" target="_blank">iRobot</a>.</tr>

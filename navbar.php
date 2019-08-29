@@ -1,4 +1,4 @@
-<?php $GLOBALS['root'] = "http://127.0.0.1/jimmybriggsnet"; ?>
+<?php $GLOBALS['root'] = ""; ?>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
@@ -30,12 +30,11 @@
       <li  class="nav-item">
       <a class="fa fa-github nav-link" target="_blank" href="https://www.github.com/jeb482"></a>
       </li>
-      <li class="nav navbar-nav pull-right">  
-      <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
-      </li>
       <li  class="nav-item">
       <a class="fa ai ai-google-scholar  nav-link" target="_blank" href="https://scholar.google.com/citations?user=xFxnvikAAAAJ&hl=en&oi=ao"></a>
       </li>
+      <li class="nav navbar-nav pull-right">  
+      <a class="fa fa-envelope nav-link" target="_blank" href="mailto:jimmy@jimmybriggs.net"></a>
       </li>
       </ul>
 
