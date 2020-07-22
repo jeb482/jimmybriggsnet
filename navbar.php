@@ -1,4 +1,5 @@
-<?php $GLOBALS['root'] = ""; ?>
+<?php $GLOBALS['root'] = "../jimmybriggsnet"; ?>
+<!-- <?php $GLOBALS['root'] = ""; ?> -->
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
@@ -15,12 +16,6 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="<?php echo $GLOBALS['root']  . "/teaching.php"?>">Teaching</a>
-        </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="<?php echo $GLOBALS['root']  . "/projects.php"?>">Projects</a>
-        </li> -->
-        <li class="nav-item">
-          <a class="nav-link" href="<?php  echo $GLOBALS['root']  . "/resume.php"?>">Resume</a>
         </li>
       </ul>
       <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">

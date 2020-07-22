@@ -85,8 +85,8 @@
       </div>
 
         <div class="starter-template">
-      <h2>Awards</h2>
       
+      <h2>Awards</h2>
       <table class="table table-striped">
         <tr>
         <th>Date</th>
@@ -108,7 +108,12 @@
         <td>Cornell Computer Science Excellence in Teaching Award</td>
         <td>Discrete Mathematics</td>
         </tr> 
-      </table>        
+      </table>       
+
+      <h2>Outreach</h2>
+        <p>One of the best parts of my job is participating iRobot's <a href="https://edu.irobot.com/stem-outreach" target="_blank">STEM Outreach Program</a>. Since starting in 2018, I have participated in nearly two dozen outreach events including job shadows, guest lessons, invited talks, panel discussions, and hands-on robot disassembly sessions. If you would like me or a colleague to visit your classroom (even virtually), please contact iRobot's STEM Outreach Program (click through the link above). 
+        </p>
+        
       </div>
     </div><!-- /.container -->
     <?php include 'footer.php' ?>

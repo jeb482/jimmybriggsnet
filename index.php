@@ -41,8 +41,7 @@
     
     </div>
       <div class="starter-template">
-        
-        <p>I am a software engineer at <a href="https://www.irobot.com"  target="_blank">iRobot</a> with expertise in Graphics, Vision, and Numerics. My current research interests are Simultaneous Localization and Mapping (SLAM) and Machine Learning. Prior to joining iRobot, I was a Master's student at the Cornell University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science</a>, where I was co-advised by 
+        <p>I am a researcher and software engineer at <a href="https://www.irobot.com"  target="_blank">iRobot</a> with expertise in Graphics, Vision, and Numerics. In addition to my primary work in Simultaneous Localization and Mapping (SLAM) and Machine Learning, I am interested in technologies that protect vulnerable populations, especially in the realm of Privacy and Security. Previously, I earned my Master's degree from the Cornell University Department of <a href="https://www.cs.cornell.edu/" target="_blank">Computer Science</a> under professors 
         <a href="http://www.cs.cornell.edu/~srm/" target="_blank">Steve Marschner</a> and 
         <a href="https://www.cs.cornell.edu/~francois/" target="_blank">François Guimbretière</a>.
         </p>
@@ -58,6 +57,10 @@
     
     <div  class="card-body news">
     <table class="table table-sm table-striped table-responsive-sm news">
+    <tr>
+    <td>November 2019</th>
+    <td>Check out my <a href="https://www.researchgate.net/publication/337399284_Egocentric_and_Allocentric_Schemes_for_Material_Understanding" target="_blank">thesis</a> on the navigational models of material understanding. It has nice pictures.</tr>
+    <tr>
     <tr>
     <td>July 2019</th>
     <td>SLAM view management paper accepted to <a href="https://www.iros2019.org" target="_blank">IROS 2019</a>.</tr>
